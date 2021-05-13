@@ -9,5 +9,6 @@ A do-lot-list frontend made with react having insert and delete functionality.
 
 • Reusable components
 
+![](todolist_react.JPG)
 
-![todolist_react](https://user-images.githubusercontent.com/39698281/118084394-482dba00-b3de-11eb-8727-14b82d363a6e.JPG)
+
